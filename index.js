@@ -69,3 +69,4 @@ setInterval(()=>{
   slideLeft();
 },4000)
   
+
